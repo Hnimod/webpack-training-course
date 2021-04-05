@@ -1,2 +1,2 @@
-# Webpack tool exercise
+# Webpack Tools Exercise
 
