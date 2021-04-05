@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://localhost:3000/public-test.json"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Public file
         </a>
       </header>
     </div>
