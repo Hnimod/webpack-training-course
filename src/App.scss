@@ -1,3 +1,9 @@
+@import './variables.scss';
+
+.text {
+  color: $primary-color;
+}
+
 .App {
   text-align: center;
 }
